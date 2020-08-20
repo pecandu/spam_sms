@@ -20,8 +20,8 @@ BODAS  = '\x1b[97m'
 
 aku = { 'Instagram':'https://instagram.com/mls_instal',
 		'Facebook':'https://facebook.com/AhmadRofii'
-		'Github':'https://github.com/pecandu',
-		'Email':'rofii0663@gmail.com' }
+		'Github'  :'https://github.com/pecandu',
+		'youtub'  :'pecandu mimpi' }
 
 def main():
 	exec(open('.banner').read())
